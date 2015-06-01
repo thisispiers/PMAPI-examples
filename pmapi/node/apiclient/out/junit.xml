@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite>
+    
+      
+        <testcase classname="lib.auth.base" name="base.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="lib.auth.hash" name="hash.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="lib.auth.index" name="index.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="lib.auth.none" name="none.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="lib.auth.token" name="token.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="lib.endpoint" name="endpoint.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="lib.exception" name="exception.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="lib.index" name="index.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="lib.request" name="request.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="lib.response" name="response.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="test.api_test" name="api-test.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="test.auth_test" name="auth-test.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="test.endpoint_test" name="endpoint-test.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="test.exception_test" name="exception-test.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="test.request_test" name="request-test.js">
+        </testcase>
+      
+    
+      
+        <testcase classname="test.response_test" name="response-test.js">
+        </testcase>
+      
+    
+  </testsuite>
+</testsuites>

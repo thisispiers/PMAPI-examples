@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jslint>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/lib/auth/base.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/lib/auth/hash.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/lib/auth/index.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/lib/auth/none.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/lib/auth/token.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/lib/endpoint.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/lib/exception.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/lib/index.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/lib/request.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/lib/response.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/test/api-test.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/test/auth-test.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/test/endpoint-test.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/test/exception-test.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/test/request-test.js">
+      
+    </file>
+  
+    <file name="/home/mal/develop/api2/github/pmapi/node/apiclient/test/response-test.js">
+      
+    </file>
+  
+</jslint>

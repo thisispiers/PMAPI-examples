@@ -1,0 +1,30 @@
+{
+  "name": "pmapi-client",
+  "version": "0.1.2",
+  "description": "A client library for integrating with the Sign-Up.to Permission Marketing API quickly and efficiently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: test suite requires valid PMAPI auth credentials \" && exit 1"
+  },
+  "author": {
+    "name": "Sign-Up.to Dev",
+    "email": "api@sign-up.to",
+    "url": "https://dev.sign-up.to/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SignUpDev/PMAPI-examples.git"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "underscore": "~1.4.4",
+    "request": "~2.21.0"
+  },
+  "devDependencies": {
+    "should": "~1.2.2",
+    "grunt-simple-mocha": "~0.4.0",
+    "grunt": "~0.4.1",
+    "grunt-jslint": "~0.2.6"
+  },
+  "readmeFilename": "README.md"
+}
